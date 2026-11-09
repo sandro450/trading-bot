@@ -1,4 +1,4 @@
-name: bot
+name: .github/workflows/bot.yml
 
 on:
   schedule:
