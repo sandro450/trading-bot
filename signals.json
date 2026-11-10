@@ -21,6 +21,28 @@
    "stop": 91.70107296534947,
    "tp": 88.84838444846017,
    "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 3.8x la media"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T10:30:00+01:00",
+   "sym": "ENI.MI",
+   "name": "Eni",
+   "side": "SHORT",
+   "entry": 24.559999465942383,
+   "stop": 24.81535734449114,
+   "tp": 24.176962648119247,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.2x la media"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T10:30:00+01:00",
+   "sym": "ENEL.MI",
+   "name": "Enel",
+   "side": "LONG",
+   "entry": 9.913000106811523,
+   "stop": 9.845053025654384,
+   "tp": 10.014920728547233,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.1x la media"
   }
  ],
  "reported": ""
