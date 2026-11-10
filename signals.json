@@ -76,6 +76,17 @@
    "stop": 4.272857001849583,
    "tp": 4.1907139250210355,
    "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.8x la media"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T15:15:00+01:00",
+   "sym": "STLAM.MI",
+   "name": "Stellantis",
+   "side": "SHORT",
+   "entry": 3.9070000648498535,
+   "stop": 3.9416429230145047,
+   "tp": 3.8550357776028767,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.3x la media"
   }
  ],
  "reported": ""
