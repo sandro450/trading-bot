@@ -1,4 +1,27 @@
 {
- "signals": [],
+ "signals": [
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T09:30:00+01:00",
+   "sym": "STLAM.MI",
+   "name": "Stellantis",
+   "side": "SHORT",
+   "entry": 3.934000015258789,
+   "stop": 4.00319640977042,
+   "tp": 3.830205423491342,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.4x la media"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T09:30:00+01:00",
+   "sym": "BZ=F",
+   "name": "Petrolio Brent",
+   "side": "SHORT",
+   "entry": 90.55999755859375,
+   "stop": 91.70107296534947,
+   "tp": 88.84838444846017,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 3.8x la media"
+  }
+ ],
  "reported": ""
 }
