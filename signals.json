@@ -54,6 +54,28 @@
    "stop": 3.2291428531919206,
    "tp": 3.3112859300204684,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.2x la media"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T14:30:00+01:00",
+   "sym": "BAMI.MI",
+   "name": "Banco BPM",
+   "side": "SHORT",
+   "entry": 15.109999656677246,
+   "stop": 15.218481642859322,
+   "tp": 14.947276677404131,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.3x la media"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "2026-11-10T14:30:00+01:00",
+   "sym": "SPM.MI",
+   "name": "Saipem",
+   "side": "SHORT",
+   "entry": 4.239999771118164,
+   "stop": 4.272857001849583,
+   "tp": 4.1907139250210355,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.8x la media"
   }
  ],
  "reported": ""
