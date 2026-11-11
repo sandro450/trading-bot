@@ -98,6 +98,28 @@
    "stop": 3.2817141669137135,
    "tp": 3.418285642351423,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 2.4x la media"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T15:00:00+01:00",
+   "sym": "UCG.MI",
+   "name": "UniCredit",
+   "side": "LONG",
+   "entry": 83.91999816894531,
+   "stop": 83.00285339355469,
+   "tp": 84.83714294433594,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 4.7x la media"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "2026-11-11T15:00:00+01:00",
+   "sym": "BAMI.MI",
+   "name": "Banco BPM",
+   "side": "SHORT",
+   "entry": 14.65999984741211,
+   "stop": 14.782856260027204,
+   "tp": 14.537143434797015,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 8.0x la media"
   }
  ],
  "reported": "2026-11-10"
