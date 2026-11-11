@@ -34,8 +34,8 @@ SYMBOLS = {
 # ---- Parametri (modificali per avere piu' o meno segnali) ----
 LOOKBACK = 8        # candele da 15 min da superare (8 = 2 ore)
 VOL_MULT = 1.0      # volume minimo rispetto alla media (1.0 = media)
-STOP_ATR = 2.5      # stop largo = 2.5 x ATR
-TP_R = 1.5          # take profit = 1.5 volte il rischio
+STOP_ATR = 4      # stop largo = 2.5 x ATR
+TP_R = 1         # take profit = 1.5 volte il rischio
 MAX_DAILY = 8       # massimo segnali al giorno
 MAX_PER_RUN = 2     # massimo segnali per ogni controllo
 COOLDOWN_H = 2      # ore di pausa sullo stesso titolo
