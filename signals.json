@@ -142,6 +142,17 @@
    "stop": 3972.2856794084823,
    "tp": 3895.3144182477677,
    "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 3.2x la media"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T13:00:00+01:00",
+   "sym": "SPM.MI",
+   "name": "Saipem",
+   "side": "SHORT",
+   "entry": 4.309000015258789,
+   "stop": 4.350714411054339,
+   "tp": 4.267285619463239,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 7.4x la media"
   }
  ],
  "reported": "2026-11-11"
