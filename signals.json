@@ -153,6 +153,17 @@
    "stop": 4.350714411054339,
    "tp": 4.267285619463239,
    "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 7.4x la media"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T14:15:00+01:00",
+   "sym": "GC=F",
+   "name": "Oro",
+   "side": "SHORT",
+   "entry": 3915.800048828125,
+   "stop": 3950.914306640625,
+   "tp": 3880.685791015625,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 3.3x la media"
   }
  ],
  "reported": "2026-11-11"
