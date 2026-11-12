@@ -120,6 +120,28 @@
    "stop": 14.782856260027204,
    "tp": 14.537143434797015,
    "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 8.0x la media"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T09:45:00+01:00",
+   "sym": "BAMI.MI",
+   "name": "Banco BPM",
+   "side": "LONG",
+   "entry": 14.895000457763672,
+   "stop": 14.636428560529437,
+   "tp": 15.153572354997907,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 4.7x la media"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "2026-11-12T09:45:00+01:00",
+   "sym": "GC=F",
+   "name": "Oro",
+   "side": "SHORT",
+   "entry": 3933.800048828125,
+   "stop": 3972.2856794084823,
+   "tp": 3895.3144182477677,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 3.2x la media"
   }
  ],
  "reported": "2026-11-11"
