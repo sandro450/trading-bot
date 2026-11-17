@@ -219,6 +219,17 @@
    "stop": 91.36429050990513,
    "tp": 94.13570949009487,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.2x la media"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "2026-11-17T12:00:00+01:00",
+   "sym": "^VIX",
+   "name": "VIX",
+   "side": "SHORT",
+   "entry": 23.309999465942383,
+   "stop": 24.495715822492325,
+   "tp": 22.12428310939244,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo"
   }
  ],
  "reported": "2026-11-16"
