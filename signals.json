@@ -175,6 +175,28 @@
    "stop": 81.97285897391183,
    "tp": 85.68714468819755,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.0x la media"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "2026-11-18T13:00:00+01:00",
+   "sym": "^VIX",
+   "name": "VIX",
+   "side": "LONG",
+   "entry": 24.329999923706055,
+   "stop": 23.615715299333846,
+   "tp": 25.044284548078263,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "2026-11-18T13:00:00+01:00",
+   "sym": "NG=F",
+   "name": "Gas naturale",
+   "side": "LONG",
+   "entry": 3.2330000400543213,
+   "stop": 3.160714319774083,
+   "tp": 3.30528576033456,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 2.3x la media"
   }
  ],
  "reported": "2026-11-17"
