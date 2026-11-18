@@ -164,6 +164,17 @@
    "stop": 85.6314217703683,
    "tp": 88.04857090541294,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 3.1x la media"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "2026-11-18T12:00:00+01:00",
+   "sym": "CL=F",
+   "name": "Petrolio WTI",
+   "side": "LONG",
+   "entry": 83.83000183105469,
+   "stop": 81.97285897391183,
+   "tp": 85.68714468819755,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.0x la media"
   }
  ],
  "reported": "2026-11-17"
