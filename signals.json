@@ -164,6 +164,28 @@
    "stop": 3.160714319774083,
    "tp": 3.30528576033456,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 2.3x la media"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T14:30:00+01:00",
+   "sym": "UCG.MI",
+   "name": "UniCredit",
+   "side": "SHORT",
+   "entry": 81.45999908447266,
+   "stop": 82.38571275983539,
+   "tp": 80.53428540910993,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.9x la media"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T14:30:00+01:00",
+   "sym": "^VIX",
+   "name": "VIX",
+   "side": "LONG",
+   "entry": 22.6200008392334,
+   "stop": 21.917143957955496,
+   "tp": 23.3228577205113,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo"
   }
  ],
  "reported": "2026-11-18"
