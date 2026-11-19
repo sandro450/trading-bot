@@ -186,6 +186,28 @@
    "stop": 21.917143957955496,
    "tp": 23.3228577205113,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T16:30:00+01:00",
+   "sym": "BAMI.MI",
+   "name": "Banco BPM",
+   "side": "SHORT",
+   "entry": 14.704999923706055,
+   "stop": 14.85642923627581,
+   "tp": 14.5535706111363,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.5x la media"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "2026-11-19T16:30:00+01:00",
+   "sym": "CL=F",
+   "name": "Petrolio WTI",
+   "side": "SHORT",
+   "entry": 82.86000061035156,
+   "stop": 84.50571768624442,
+   "tp": 81.2142835344587,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.2x la media"
   }
  ],
  "reported": "2026-11-18"
