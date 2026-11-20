@@ -208,6 +208,28 @@
    "stop": 31.317141669137136,
    "tp": 27.80285726274763,
    "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T16:15:00+01:00",
+   "sym": "GC=F",
+   "name": "Oro",
+   "side": "SHORT",
+   "entry": 3531.300048828125,
+   "stop": 3592.9000069754466,
+   "tp": 3469.7000906808034,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 2.0x la media"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "2026-11-20T16:15:00+01:00",
+   "sym": "BZ=F",
+   "name": "Petrolio Brent",
+   "side": "SHORT",
+   "entry": 88.02999877929688,
+   "stop": 89.69571794782367,
+   "tp": 86.36427961077008,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.0x la media"
   }
  ],
  "reported": "2026-11-19"
