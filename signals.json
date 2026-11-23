@@ -241,6 +241,17 @@
    "stop": 13.817142486572266,
    "tp": 14.322856903076172,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.1x la media"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "2026-11-23T16:15:00+01:00",
+   "sym": "NG=F",
+   "name": "Gas naturale",
+   "side": "SHORT",
+   "entry": 3.4519999027252197,
+   "stop": 3.5791427407945906,
+   "tp": 3.324857064655849,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.3x la media"
   }
  ],
  "reported": "2026-11-20"
