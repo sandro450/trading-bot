@@ -1,17 +1,6 @@
 {
  "signals": [
   {
-   "date": "2026-11-16",
-   "time": "2026-11-16T13:00:00+01:00",
-   "sym": "^VIX",
-   "name": "VIX",
-   "side": "LONG",
-   "entry": 20.389999389648438,
-   "stop": 19.835715702601842,
-   "tp": 20.944283076695033,
-   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo"
-  },
-  {
    "date": "2026-11-17",
    "time": "2026-11-17T10:00:00+01:00",
    "sym": "CL=F",
