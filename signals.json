@@ -252,6 +252,28 @@
    "stop": 27.538571221487864,
    "tp": 31.16142954145159,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2026-11-24T15:45:00+01:00",
+   "sym": "^VIX",
+   "name": "VIX",
+   "side": "SHORT",
+   "entry": 27.540000915527344,
+   "stop": 30.9457152230399,
+   "tp": 24.134286608014786,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "2026-11-24T15:45:00+01:00",
+   "sym": "BZ=F",
+   "name": "Petrolio Brent",
+   "side": "LONG",
+   "entry": 88.27999877929688,
+   "stop": 87.0142844063895,
+   "tp": 89.54571315220424,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 2.7x la media"
   }
  ],
  "reported": "2026-11-23"
