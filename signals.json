@@ -219,6 +219,28 @@
    "stop": 87.0142844063895,
    "tp": 89.54571315220424,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 2.7x la media"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T10:15:00+01:00",
+   "sym": "ISP.MI",
+   "name": "Intesa Sanpaolo",
+   "side": "SHORT",
+   "entry": 5.638000011444092,
+   "stop": 5.7474285534449985,
+   "tp": 5.528571469443185,
+   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.2x la media"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T10:30:00+01:00",
+   "sym": "^VIX",
+   "name": "VIX",
+   "side": "LONG",
+   "entry": 29.170000076293945,
+   "stop": 26.812856674194336,
+   "tp": 31.527143478393555,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo"
   }
  ],
  "reported": "2026-11-24"
