@@ -252,6 +252,28 @@
    "stop": 3.596571479524885,
    "tp": 3.7394284861428395,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 2.3x la media"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T14:45:00+01:00",
+   "sym": "ENI.MI",
+   "name": "Eni",
+   "side": "LONG",
+   "entry": 23.795000076293945,
+   "stop": 23.580713272094727,
+   "tp": 24.009286880493164,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.1x la media"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "2026-11-25T14:45:00+01:00",
+   "sym": "LDO.MI",
+   "name": "Leonardo",
+   "side": "LONG",
+   "entry": 49.619998931884766,
+   "stop": 48.925713130405974,
+   "tp": 50.31428473336356,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.3x la media"
   }
  ],
  "reported": "2026-11-24"
