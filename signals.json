@@ -1,61 +1,6 @@
 {
  "signals": [
   {
-   "date": "2026-11-17",
-   "time": "2026-11-17T10:00:00+01:00",
-   "sym": "CL=F",
-   "name": "Petrolio WTI",
-   "side": "LONG",
-   "entry": 85.83000183105469,
-   "stop": 84.60428728376117,
-   "tp": 87.05571637834821,
-   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.1x la media"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "2026-11-17T10:00:00+01:00",
-   "sym": "BZ=F",
-   "name": "Petrolio Brent",
-   "side": "LONG",
-   "entry": 92.75,
-   "stop": 91.36429050990513,
-   "tp": 94.13570949009487,
-   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.2x la media"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "2026-11-17T12:00:00+01:00",
-   "sym": "^VIX",
-   "name": "VIX",
-   "side": "SHORT",
-   "entry": 23.309999465942383,
-   "stop": 24.495715822492325,
-   "tp": 22.12428310939244,
-   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "2026-11-17T14:15:00+01:00",
-   "sym": "ENEL.MI",
-   "name": "Enel",
-   "side": "SHORT",
-   "entry": 9.661499977111816,
-   "stop": 9.732500212533134,
-   "tp": 9.590499741690499,
-   "note": "Rottura al ribasso dei minimi delle ultime 2 ore, venditori in controllo, volumi 1.0x la media"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "2026-11-17T14:15:00+01:00",
-   "sym": "CL=F",
-   "name": "Petrolio WTI",
-   "side": "LONG",
-   "entry": 86.83999633789062,
-   "stop": 85.6314217703683,
-   "tp": 88.04857090541294,
-   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 3.1x la media"
-  },
-  {
    "date": "2026-11-18",
    "time": "2026-11-18T12:00:00+01:00",
    "sym": "CL=F",
