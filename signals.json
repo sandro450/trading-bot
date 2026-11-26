@@ -241,6 +241,28 @@
    "stop": 48.925713130405974,
    "tp": 50.31428473336356,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.3x la media"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T15:45:00+01:00",
+   "sym": "ISP.MI",
+   "name": "Intesa Sanpaolo",
+   "side": "LONG",
+   "entry": 5.638000011444092,
+   "stop": 5.588000229426792,
+   "tp": 5.687999793461391,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.4x la media"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2026-11-26T15:45:00+01:00",
+   "sym": "BAMI.MI",
+   "name": "Banco BPM",
+   "side": "LONG",
+   "entry": 13.6850004196167,
+   "stop": 13.580714225769043,
+   "tp": 13.789286613464355,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.7x la media"
   }
  ],
  "reported": "2026-11-25"
