@@ -230,6 +230,17 @@
    "stop": 9.567428180149623,
    "tp": 9.748571804591588,
    "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 6.1x la media"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "2026-11-27T15:45:00+01:00",
+   "sym": "GC=F",
+   "name": "Oro",
+   "side": "LONG",
+   "entry": 3671.199951171875,
+   "stop": 3608.971435546875,
+   "tp": 3733.428466796875,
+   "note": "Rottura al rialzo dei massimi delle ultime 2 ore, compratori in controllo, volumi 1.6x la media"
   }
  ],
  "reported": "2026-11-26"
